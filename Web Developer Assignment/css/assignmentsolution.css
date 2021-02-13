@@ -28,7 +28,6 @@ p {
   background-color: rgb(160, 129, 43);
   width: 30% ;
   margin: 15px;
-  padding: 3px;
   text-align: center;
   border: 1px solid black;
   font-size: 1.em;
@@ -36,11 +35,10 @@ p {
 }
 
 .sushi, .chicken, .rice {
-  text-align: right;
+  text-align: center;
   border : 1px solid black;
   width: 80px; 
   float: right;
-  
 }
 
 .sushi {
